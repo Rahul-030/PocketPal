@@ -1,7 +1,6 @@
 # PocketPal
 Project Based on Asp.Net Core MVC
 PocketPal Expense Tracker
-PocketPal Logo
 
 PocketPal is a web-based expense tracking application built using ASP.NET Core MVC. It allows users to conveniently track their day-to-day expenses, helping them gain insights into their spending habits and manage their personal finances effectively.
 
